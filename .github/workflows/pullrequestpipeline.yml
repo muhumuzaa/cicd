@@ -1,6 +1,7 @@
 name: ServiceNow Pull Request Pipeline
 
 on:
+  workflow_dispatch: 
   pull_request:
     branches:
       - sn_instances/nowlearning-nlinst04150617-1vgvc-0001
