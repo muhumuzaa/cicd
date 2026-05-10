@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <input_filter/>
+        <name>CICD Demo - Open Table List</name>
+        <parent/>
+        <sn_atf_tg_generated>false</sn_atf_tg_generated>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-10 23:31:47</sys_created_on>
+        <sys_id>93d65191fd7403107f44481ce1128490</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CICD Demo - Open Table List</sys_name>
+        <sys_package display_value="CICD Demo App" source="x_snc_cicd_demo_0">237bd281a87403107f44effc37628631</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD Demo App">237bd281a87403107f44effc37628631</sys_scope>
+        <sys_update_name>sys_atf_test_suite_93d65191fd7403107f44481ce1128490</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-10 23:31:47</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dae81955fd7403107f44481ce1128469" label="CICD Requests" max_length="40" name="x_snc_cicd_demo_0_cicd_requests" type="collection">
+        <element label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+    </element>
+</database>

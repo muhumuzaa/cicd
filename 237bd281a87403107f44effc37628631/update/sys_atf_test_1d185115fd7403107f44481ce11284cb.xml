@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>CICD test</name>
+        <parameters/>
+        <remember/>
+        <sn_atf_tg_generated>false</sn_atf_tg_generated>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-10 23:37:18</sys_created_on>
+        <sys_id>1d185115fd7403107f44481ce11284cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CICD test</sys_name>
+        <sys_package display_value="CICD Demo App" source="x_snc_cicd_demo_0">237bd281a87403107f44effc37628631</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD Demo App">237bd281a87403107f44effc37628631</sys_scope>
+        <sys_update_name>sys_atf_test_1d185115fd7403107f44481ce11284cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-10 23:37:18</sys_updated_on>
+        <test_origin>manual</test_origin>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=1d185115fd7403107f44481ce11284cb"/>
+</record_update>
