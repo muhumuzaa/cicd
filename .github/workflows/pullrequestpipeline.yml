@@ -1,4 +1,4 @@
-name: ServiceNow Pull Request Pipelinee
+name: ServiceNow Pull Request Pipelinnee
 
 on:
   workflow_dispatch:
