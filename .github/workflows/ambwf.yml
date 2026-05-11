@@ -27,7 +27,7 @@ jobs:
         id: atf_test_dev
         uses: ServiceNow/sncicd-tests-run@2.0.0
         with:
-          testSuiteName: CICD Demo Test Suite
+          testSuiteSysId: ${{ secrets.TEST_SUITE_ID}}
         env:
           nowUsername: ${{ secrets.NOW_USERNAME }}
           nowPassword: ${{ secrets.NOW_PASSWORD }}
